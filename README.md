@@ -18,6 +18,54 @@
 
 4. Tempo total gasto: 6h e 23 minutos
 
+## 📊 Análise dos dados
+
+1. Quem são os 10 maiores clientes em termos de vendas ($)?
+
+![](images/image1.png)
+
+2. Quais os três maiores países em termos de vendas ($)?
+
+![](images/image2.png)
+
+3. Quais as categorias de produtos que geram maior faturamento (vendas $) no Brasil?
+
+![](images/image3.png)
+
+4. Qual a despesa com frete envolvendo cada transportadora?
+
+![](images/image4.png)
+
+5. Quais são os principais clientes (vendas $) do segmento "Calçados Masculinos" (Men´s Footwear) na Alemanha?
+
+![](images/image5.png)
+
+6. Quais os vendedores que mais dão descontos nos Estados Unidos?
+
+![](images/image6.png)
+
+7. Quais os fornecedores que dão a maior margem de lucro ($) no segmento "Vestuário Feminino" (Womens wear)?
+
+![](images/image7.png)
+
+8. Quanto foi vendido ($) em 2009?
+
+- Total vendido em 2009:
+
+![](images/image8_1.png)
+
+- Evolução anual 2009–2012
+
+![](images/image8_2.png)
+
+9. Quais são os principais clientes (vendas $) do segmento "Calçados Masculinos" (Men´s Footwear) no ano de 2013? Para quais cidades houve venda e quanto?
+
+    `Não há registros em 2013.`
+
+10. Na Europa, quanto se vende ($) para cada país?
+
+![](images/image10.png)
+
 ## 🌎 Links
 
 1. Repositório contendo scripts ddl e dml: [https://github.com/felipecartaxo/int_emp-atividade1_etapa1](https://github.com/felipecartaxo/int_emp-atividade1_etapa1)
