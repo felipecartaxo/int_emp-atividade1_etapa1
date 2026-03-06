@@ -10,11 +10,11 @@
 
 ## ⌛ Tempo gasto para produzir os resultados
 
-1. Construção das tabelas e consultas: aproximadamente 2h e 15 minutos
+1. Construção das tabelas e consultas: **aproximadamente 2h e 15 minutos**
 
-2. Criação dos gráficos e análise dos dados: aproximadamente 1h e 38 minutos
+2. Criação dos gráficos e análise dos dados: **aproximadamente 1h e 38 minutos**
 
-3. Desenvolvimento da aplicação web: aproximadamente 2h e 30 minutos
+3. Desenvolvimento da aplicação web: **aproximadamente 2h e 30 minutos**
 
 4. Tempo total gasto: 6h e 23 minutos
 
