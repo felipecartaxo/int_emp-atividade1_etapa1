@@ -25,11 +25,6 @@ CREATE TABLE vendedores (
 );
 
 -- Estrutura a tabela de Vendas Globais
--- ---------------------------------------------------------------
--- 4. Vendas_Globais
---    PedidoID não é único (um pedido pode ter vários itens),
---    por isso usamos venda_id SERIAL como chave primária surrogate.
--- ---------------------------------------------------------------
 CREATE TABLE vendas_globais (
 	venda_id            SERIAL          NOT NULL,
 	pedido_id           INTEGER         NOT NULL,
