@@ -24,7 +24,7 @@ CREATE TABLE vendedores (
 	CONSTRAINT pk_vendedores PRIMARY KEY (vendedor_id)
 );
 
---  Estrutura a tabela de Vendas Globais
+-- Estrutura a tabela de Vendas Globais
 CREATE TABLE vendas_globais (
 	venda_id            SERIAL          NOT NULL,
 	pedido_id           INTEGER         NOT NULL,
