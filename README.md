@@ -1,6 +1,6 @@
 # Inteligência Empresarial | Transformando dados - Etapa 1
 
-## Estratégias e tecnologias utilizadas
+## 📈 Estratégias e tecnologias utilizadas
 
 1. As tabelas foram montadas em um SGBD (no PostgreSQL), e, em seguida, montamos as consultas para responder às questões propostas. 
 
@@ -8,7 +8,7 @@
 
 3. Por último, levando em consideração que nosso consumidor final seria uma pessoa de outra área que não tem conhecimento técnico, optamos por apresentar os resultados através de uma aplicação web, bem simples, apenas para exibir os dados de forma mais amigável e acessível.
 
-## Tempo gasto para produzir os resultados
+## ⌛ Tempo gasto para produzir os resultados
 
 1. Construção das tabelas e consultas: aproximadamente 2h e 15 minutos
 
@@ -18,13 +18,13 @@
 
 4. Tempo total gasto: 6h e 23 minutos
 
-## Links
+## 🌎 Links
 
 1. Repositório contendo scripts ddl e dml: [https://github.com/felipecartaxo/int_emp-atividade1_etapa1](https://github.com/felipecartaxo/int_emp-atividade1_etapa1)
 2. Link do Google Colab utilizado para análise dos dados e criação dos gráficos: [https://colab.research.google.com/drive/1lFrwV8Fo-ws4-Hjm8DCF-XxHqCURH9_v?usp=sharing](https://colab.research.google.com/drive/1lFrwV8Fo-ws4-Hjm8DCF-XxHqCURH9_v?usp=sharing)
 2. Repositório da aplicação web: [https://github.com/sheilallee/atividade-int-empresarial](https://github.com/sheilallee/atividade-int-empresarial)
 
-## Equipe
+## 💁 Equipe
 
 - Felipe Cartaxo
 - Jackson Ramos
